@@ -1,6 +1,8 @@
 ## Oioi, meu nome é Mariana! :smile:
 ### Bem vindo ao meu perfil GitHub
 
+<img src="bonequinha.jpg" width="250" align="right">
+
 ### Tecnologias já utilizadas
 <p>
     <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=ff007f"></img>&nbsp;
