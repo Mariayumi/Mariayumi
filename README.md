@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=nodedotjs&logoColor=A960FF"></img>&nbsp;    
     <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=DD58C1"></img>&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=A960FF"></img>&nbsp;  
-    <img src="https://img.shields.io/badge/Bootstrap-151515?style=for-the-badge&logo=bootstrap&logoColor=DD58C1"></img>&nbsp; 
 </p>
 
 <div>
