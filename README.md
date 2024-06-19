@@ -21,6 +21,9 @@
 
 ![Snake animation](https://github.com/Mariayumi/Mariayumi/blob/output/github-contribution-grid-snake.svg)
 
+### Portfólio
+<a href="https://github.com/Mariayumi/Mariayumi/blob/main/Portf%C3%B3lio%20-%20Mariana%20Ayumi%20Tamay%20(6).pdf">Clique aqui!</a>
+
 ### Contatos
 <div>
 <a href="https://www.instagram.com/maritamay4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-151515?style=for-the-badge&logo=instagram&logoColor=A960FF" target="_blank"></a>
