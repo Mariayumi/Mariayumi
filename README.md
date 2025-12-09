@@ -12,12 +12,6 @@
     <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=FF9F6B"></img>&nbsp;  
 </p>
 
-<div>
-<a href="https://github.com/Mariayumi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariayumi&show_icons=true&bg_color=0A0E15&text_color=FFF2E5&title_color=1ECFF1&icon_color=FFD510&border_color=FFF2E5"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariayumi&layout=compact&bg_color=0A0E15&text_color=FFF2E5&title_color=F48EEB&icon_color=C09BBC&border_color=FFF2E5"/>
-</div>
-
 ![Snake animation](https://github.com/Mariayumi/Mariayumi/blob/output/github-contribution-grid-snake.svg)
 
 ### Contatos
